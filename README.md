@@ -41,7 +41,7 @@
 ## 赞助宣传 SVG
 
 ```markdown
-[![Gizmo's Profile](https://afdian-connect.deno.dev/profile.svg)](https://afdian.net/a/gizmo)
+[![Knightli's Profile](https://afdian-connect.knightli.cn/profile.svg)](https://afdian.net/a/knightli)
 ```
 
 官方网页嵌入功能的替代. 渲染为 SVG, 方便在 Markdown 等情况下使用.
@@ -58,12 +58,12 @@
 - `height` - 高度, 默认为`225`
 - `maxage` - 浏览器缓存时间, 单位为秒, 默认为`7200`
 
-[![Gizmo's Profile](https://afdian-connect.deno.dev/profile.svg)](https://afdian.net/a/gizmo)
+[![Knightli's Profile](https://afdian-connect.knightli.cn/profile.svg)](https://afdian.net/a/knightli)
 
 ## 赞助者展示 SVG
 
 ```markdown
-![Sponsors](https://afdian-connect.deno.dev/sponsor.svg)
+![Sponsors](https://afdian-connect.knightli.cn/sponsor.svg)
 ```
 
 支持的选项:
@@ -71,7 +71,7 @@
 - `width` - 宽度, 默认为`800`
 - `maxage` - 浏览器缓存时间, 单位为秒, 默认为`7200`
 
-[![金主爸爸](https://afdian-connect.deno.dev/sponsor.svg)](https://afdian.net/a/gizmo)
+[![金主爸爸](https://afdian-connect.knightli.cn/sponsor.svg)](https://afdian.net/a/knightli)
 
 ## Discord WebHook
 
